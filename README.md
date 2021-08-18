@@ -1,4 +1,4 @@
-# Logic RACE Android
+# Logic RACE -Android
 
 
 This is the official repository for the android app of [Logic RACE](https://logicrace.com/).
